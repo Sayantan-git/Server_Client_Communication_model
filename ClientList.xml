@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Name>Soma</Name>
+    <phoneNumber>12345</phoneNumber>
+  </Client>
+  <Client>
+    <Name>Durri</Name>
+    <phoneNumber>99999</phoneNumber>
+  </Client>
+  <Client>
+    <Name>Sayan</Name>
+    <phoneNumber>74125</phoneNumber>
+  </Client>
+</ArrayOfClient>

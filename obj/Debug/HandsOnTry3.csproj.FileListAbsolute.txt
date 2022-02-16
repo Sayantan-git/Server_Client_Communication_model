@@ -1,0 +1,7 @@
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\bin\Debug\HandsOnTry3.exe.config
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\bin\Debug\HandsOnTry3.exe
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\bin\Debug\HandsOnTry3.pdb
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\obj\Debug\HandsOnTry3.csproj.CoreCompileInputs.cache
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\obj\Debug\HandsOnTry3.exe
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\obj\Debug\HandsOnTry3.pdb
+F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\obj\Debug\HandsOnTry3.csproj.AssemblyReference.cache
