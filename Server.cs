@@ -21,10 +21,10 @@ namespace HandsOnTry3
         public void AddToServer(Client client)   //Method to add client in Server list
         {
             server_list.Add(client);
-            //SaveAsXML(server_list);
+            SaveAsXML(server_list);
         }
 
-        /*void SaveAsXML(IList<Client> clients)  // //Method to add client in Server XML file
+        void SaveAsXML(IList<Client> clients)  // //Method to add client in Server XML file
         {
             string xmlFilename = @"F:\projects\HandsOn\HandsOnTry3\HandsOnTry3\ClientList.xml";
             var writer = new System.Xml.Serialization.XmlSerializer(typeof(List<Client>));
@@ -32,7 +32,7 @@ namespace HandsOnTry3
             var file = new StreamWriter(xmlFilename);
             writer.Serialize(file, clients);
             file.Close();
-        }*/
+        }
 
       
 
